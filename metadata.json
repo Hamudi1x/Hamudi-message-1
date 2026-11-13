@@ -1,0 +1,6 @@
+{
+  "name": "Hamudi message",
+  "description": "تطبيق حمودي رسالة (Hamudi message) - مراسلة فورية، مكالمات صوتية ومرئية، بصمة صوتية، وملف شخصي بمعرّف فريد مكون من 8 أرقام",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
